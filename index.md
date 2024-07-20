@@ -1,17 +1,18 @@
 ---
 layout: default
+title: Home
 ---
 
 # Welcome to My Personal Website
 
-## About Me
-I am a Chemical Engineering honors student at IIT Bombay. I have a strong background in SLP, IDP, and Course on Wheels. I have also interned at Shell, where I worked on developing a tool for monitoring BAHX and conducted Unisim model analysis.
+![My Photo](/assets/shell_1.jpg)
 
-## Projects
-### Temperature Dependent FTIR analysis of PVDF
-- Detailed analysis of FTIR spectra with temperature variations.
+## About Me
+I am a Chemical Engineering honors student at IIT Bombay. 
+
+
 
 ## Contact
-- **Email:** 210020048@iitb.ac.in
+- **Email:** your-email@example.com
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/bhavina-gajghate/)
-- **GitHub:** [Your GitHub]([https://github.com/username](https://github.com/deadmau5e))
+- **GitHub:** [Your GitHub](https://github.com/deadmau5e)
